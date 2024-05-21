@@ -1,1 +1,1 @@
-chitranshw,github.io
+chitranshw.github.io

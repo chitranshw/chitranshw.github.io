@@ -1,20 +1,40 @@
-# Data Scientist
+# Technical Writer
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Technical Writing | Product/API Documentation | Software Product Training | Proposal Management
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
-
+- M.Com (Finance) | Bhopal School of Social Sciences (_May 2017_)								       		
+- B.Com (Applied Economics) | Bhopal School of Social Sciences (_May 2015_)
+  
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+**Consultant @ Deloitte (_July 2022 - Present_)**
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Responsible for drafting tailored RFP responses for pursuits catering to Commercial clients across various industries and offerings. Clients included some of the biggest global conglomerates in the world with a total aggregate engagement revenue between $50M-$100M.
+- Analyzed RFP or RFI requirements and ensure proposal response compliance.
+- Engaged in the pursuit lifecycle by drafting RFP Responses, providing Ad hoc content support, and editing and proofreading of the proposals.
+- Functioned as a content specialist for SAP and Oracle offerings at Deloitte and helped with maintaining response repository and sourcing latest content.
+- Created stand-alone response documents and single-slide overviews to support pursuits.
+- Contributed to various proposal management activities including preparing RFP Templates, creating proposal track pack and publishing SharePoint sites.
+- Provided content management and content curation support as required.
+
+
+**Lead Technical Writer @ Landytech Ltd. (_December 2020 - Present_)**
+•	Defined and established content creation process for the company
+•	Driven the Knowledge base content creation and content management practice.
+•	Defined documentation standards and laid content creation guidelines
+•	Managed and maintained document libraries and initiated and advised on various process improvements in documentation cycle.
+•	Defined communication formats for Release notes and product communications
+•	Interacted with product owners, product managers, subject matter experts and developers on multiple levels to develop and manage client facing and internal documentations.
+•	Wrote, edited and published articles about the product (Sesame – Investment Reporting Software) on the company knowledge base.
+•	Created and contributed to API Documentation.
+•	Wrote product tour guides/Interactive help guides for various product modules.
+•	Structured/restructured the articles to be abreast with the product enhancements.  
+•	Wrote Content for Release notes and product communication emails.
+•	Set up product experience practice to promote product enablement among company and client users.
+•	Initiated, planned and delivered internal product trainings.
+•	Created learning modules for product training in the company.
+•	Hired technical writers for team and was also responsible for their induction and training.
+
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees

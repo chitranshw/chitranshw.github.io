@@ -3,8 +3,8 @@
 #### Technical Skills: Technical Writing | Product/API Documentation | Software Product Training | Proposal Management
 
 ## Education
-- M.Com (Finance) | Bhopal School of Social Sciences (_May 2017_)								       		
-- B.Com (Applied Economics) | Bhopal School of Social Sciences (_May 2015_)
+- M.Com (Finance) | Bhopal School of Social Sciences ( 2017_)								       		
+- B.Com (Economics) | Bhopal School of Social Sciences (2015_)
   
 ## Work Experience
 **Consultant @ Deloitte (_July 2022 - Present_)**

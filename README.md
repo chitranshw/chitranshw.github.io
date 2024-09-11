@@ -1,6 +1,6 @@
 # Technical Writer
 
-#### Skills: Technical Writing, Product Documentation, API Documentation, Software Product Training, Proposal Management
+#### Skills: Technical Writing, Product/API Documentation,Software Product Training, Proposal Management
 
 ## Education
 - M.Com (Finance) | Bhopal School of Social Sciences (_2017_)								       		

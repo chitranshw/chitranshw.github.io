@@ -3,8 +3,8 @@
 #### Skills: Technical Writing, Product Documentation, API Documentation, Software Product Training, Proposal Management
 
 ## Education
-- M.Com (Finance) | Bhopal School of Social Sciences (2017)								       		
-- B.Com (Economics) | Bhopal School of Social Sciences (2015)
+- M.Com (Finance) | Bhopal School of Social Sciences (_2017_)								       		
+- B.Com (Economics) | Bhopal School of Social Sciences (_2015_)
   
 ## Work Experience
 **Consultant @ Deloitte (_July 2022 - Present_)**
@@ -17,7 +17,7 @@
 - Provided content management and content curation support as required.
 
 
-**Lead Technical Writer @ Landytech Ltd. (July 2021 - June 2022_)**
+**Lead Technical Writer @ Landytech Ltd. (_July 2021 - June 2022_)**
 - Defined and established content creation process for the company
 - Driven the Knowledge base content creation and content management practice.
 - Defined documentation standards and laid content creation guidelines
@@ -34,14 +34,14 @@
 - Created learning modules for product training in the company.
 - Hired technical writers for team and was also responsible for their induction and training.
 
-**Author/Content Writer @ Caxsol India Pvt. Limited (June 2020 - March 2021_)**
+**Author/Content Writer @ Caxsol India Pvt. Limited (_June 2020 - March 2021_)**
 - Created product buying/product comparison guides for the client website cherrycheck.in* (Categories including but not restricted to technology, outdoor, home essentials and kitchen products.)
 - Performed search volume analysis and other SEO related activities.
 - Content management and content addition in the Cherrycheck content management system, CherryCMS
 - Supported editing and content improvement process.
 - Provided inputs related to content creation based on experience and product research.
 
-**Jr. Analyst (Launch & Implementation) (May 2017 - May 2019_)**
+**Jr. Analyst (Launch & Implementation) (_May 2017 - May 2019_)**
 - Process Flow documentation
 - User Guides and User Manual Development
 - Preparing Release Notes on new version implementation 

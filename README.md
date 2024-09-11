@@ -8,7 +8,6 @@
   
 ## Work Experience
 **Consultant @ Deloitte (_July 2022 - Present_)**
-
 - Responsible for drafting tailored RFP responses for pursuits catering to Commercial clients across various industries and offerings. Clients included some of the biggest global conglomerates in the world with a total aggregate engagement revenue between $50M-$100M.
 - Analyzed RFP or RFI requirements and ensure proposal response compliance.
 - Engaged in the pursuit lifecycle by drafting RFP Responses, providing Ad hoc content support, and editing and proofreading of the proposals.
@@ -18,23 +17,36 @@
 - Provided content management and content curation support as required.
 
 
-**Lead Technical Writer @ Landytech Ltd. (_December 2020 - Present_)**
-•	Defined and established content creation process for the company
-•	Driven the Knowledge base content creation and content management practice.
-•	Defined documentation standards and laid content creation guidelines
-•	Managed and maintained document libraries and initiated and advised on various process improvements in documentation cycle.
-•	Defined communication formats for Release notes and product communications
-•	Interacted with product owners, product managers, subject matter experts and developers on multiple levels to develop and manage client facing and internal documentations.
-•	Wrote, edited and published articles about the product (Sesame – Investment Reporting Software) on the company knowledge base.
-•	Created and contributed to API Documentation.
-•	Wrote product tour guides/Interactive help guides for various product modules.
-•	Structured/restructured the articles to be abreast with the product enhancements.  
-•	Wrote Content for Release notes and product communication emails.
-•	Set up product experience practice to promote product enablement among company and client users.
-•	Initiated, planned and delivered internal product trainings.
-•	Created learning modules for product training in the company.
-•	Hired technical writers for team and was also responsible for their induction and training.
+**Lead Technical Writer @ Landytech Ltd. (July 2021 - June 2022_)**
+- Defined and established content creation process for the company
+- Driven the Knowledge base content creation and content management practice.
+- Defined documentation standards and laid content creation guidelines
+- Managed and maintained document libraries and initiated and advised on various process improvements in documentation cycle.
+- Defined communication formats for Release notes and product communications
+- Interacted with product owners, product managers, subject matter experts and developers on multiple levels to develop and manage client facing and internal documentations.
+- Wrote, edited and published articles about the product (Sesame – Investment Reporting Software) on the company knowledge base.
+- Created and contributed to API Documentation.
+- Wrote product tour guides/Interactive help guides for various product modules.
+- Structured/restructured the articles to be abreast with the product enhancements.  
+- Wrote Content for Release notes and product communication emails.
+- Set up product experience practice to promote product enablement among company and client users.
+- Initiated, planned and delivered internal product trainings.
+- Created learning modules for product training in the company.
+- Hired technical writers for team and was also responsible for their induction and training.
 
+**Author/Content Writer @ Caxsol India Pvt. Limited (June 2020 - March 2021_)**
+- Created product buying/product comparison guides for the client website cherrycheck.in* (Categories including but not restricted to technology, outdoor, home essentials and kitchen products.)
+- Performed search volume analysis and other SEO related activities.
+- Content management and content addition in the Cherrycheck content management system, CherryCMS
+- Supported editing and content improvement process.
+- Provided inputs related to content creation based on experience and product research.
+
+**Jr. Analyst (Launch & Implementation) (May 2017 - May 2019_)**
+- Process Flow documentation
+- User Guides and User Manual Development
+- Preparing Release Notes on new version implementation 
+- User Requirement Analysis
+- Aiding the Product team with linguistic nuances as required
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees

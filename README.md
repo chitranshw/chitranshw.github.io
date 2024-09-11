@@ -1,4 +1,4 @@
-# Technical writer
+# Technical Writer
 
 ### Education
 Masters, Finance
